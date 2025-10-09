@@ -7,23 +7,20 @@ Hola, Soy Fernando Olivera!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Informática;Inteligencia+Artificial&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
--------------------------
-💻 Soy Desarrollador de Software 
-📚 Estoy cursando la carrera técnica de Computación e Informática en el instituto CIBERTEC, Lima - Perú.
+
+💻 Soy Desarrollador de Software Backend
+📚 Estudiante de V Ciclo - de Computación e Informática - CIBERTEC, Lima - Perú.
 📝 Tengo un gran interés en desarollo Mobile y la Inteligencia Artificial.
 🔭 Actualmente trabajo en Madrisqui - Notaria Paino.
-🌱 Estoy aprendiendo sobre Desarrollo Mobile y temas de Machine Learning.
+🌱 Estoy aprendiendo sobre Desarrollo Mobile y temas Automatización.
 🌟 Lenguajes principales: Python, Kotlin.
-💡 Interesado en el desarrollo de aplicaciones Full Stack con Machine Learning.
-
 ```
 <hr>
 
