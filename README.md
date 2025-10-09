@@ -14,7 +14,6 @@ Hola, Soy Fernando Olivera!
 <hr>
 
 ```
-
 💻 Soy Desarrollador de Software Backend
 📚 Estudiante de V Ciclo - de Computación e Informática - CIBERTEC, Lima - Perú.
 📝 Tengo un gran interés en desarollo Mobile y la Inteligencia Artificial.
@@ -54,7 +53,7 @@ Hola, Soy Fernando Olivera!
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### 💻 Software y Herramientas
 
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
