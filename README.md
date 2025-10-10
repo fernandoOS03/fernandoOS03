@@ -14,12 +14,14 @@ Hola, Soy Fernando Olivera!
 <hr>
 
 ```
-💻 Soy Desarrollador de Software Backend
-📚 Estudiante de V Ciclo - de Computación e Informática - CIBERTEC, Lima - Perú.
-📝 Tengo un gran interés en desarollo Mobile y la Inteligencia Artificial.
-🔭 Actualmente trabajo en Madrisqui - Notaria Paino.
-🌱 Estoy aprendiendo sobre Desarrollo Mobile y temas Automatización.
-🌟 Lenguajes principales: Python, Kotlin.
+# 👋 ¡Hola! Soy Fernando Olivera Salazar
+💻 Desarrollador de Software Backend | 📱 Entusiasta del Desarrollo Mobile
+
+📚 Estudiante de V Ciclo de Computación e Informática en CIBERTEC - Lima, Perú
+🧠 Interesado en Desarrollo Mobile y Inteligencia Artificial 
+🔭 Actualmente trabajo en Madrisqui - Notaría Paino
+🌱 Aprendiendo sobre automatización y optimización de procesos 
+🌟 Lenguajes principales: Python, Kotlin
 ```
 <hr>
 
