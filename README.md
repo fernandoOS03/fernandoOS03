@@ -11,9 +11,9 @@
 
 ## 🚀 Sobre Mí
 
-* 👋 Soy **Fernando Olivera Salazar**, un desarrollador en crecimiento con enfoque en el **Backend** y un gran interés en el **Desarrollo Mobile**.
+* 👋 Soy **Fernando Olivera Salazar**, un desarrollador en crecimiento con enfoque en el **Backend** ademas de un gran interés en el **Desarrollo de otimización de procesos**.
 * 📚 Actualmente soy estudiante de **V Ciclo** de Computación e Informática en **CIBERTEC** (Lima, Perú).
-* 🧠 Mi fascinación se centra en el **Desarrollo Mobile** y la **Inteligencia Artificial** (AI).
+* 🧠 Mi fascinación se centra en el **Backend** y la **Inteligencia Artificial** (AI).
 * 💼 Trabajo en **Madrisqui - Notaría Paino**, aplicando y optimizando procesos.
 * 🌱 Constantemente aprendiendo sobre **automatización** y **optimización de procesos** para hacer sistemas más eficientes.
 * 🌟 Mis lenguajes base son **JavaScript** y **Java**.
