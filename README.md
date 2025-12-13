@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <h3>👨‍💻 Perfil Profesional</h3>
       <ul style="list-style-type: none;">
         <li>🧠 <b>Enfoque:</b> Backend, IA y Automatización.</li>
@@ -30,14 +30,13 @@
         <li>🎯 <b>Objetivo:</b> Hacer la tecnología invisible y eficiente.</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <h3>🛠️ Lenguajes Base</h3>
-       <img src="https://img.shields.io/badge/Java-Expert-007396?style=flat-square&logo=java&logoColor=white" />
+       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <br/>
-      <img src="https://img.shields.io/badge/Python-Intermediate-14354C?style=flat-square&logo=python&logoColor=white" />
-    </td>
+      <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
   </tr>
 </table>
 
@@ -64,10 +63,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=fernandoOS03&show_icons=true&theme=transparent&hide_border=true&title_color=007396&text_color=555&icon_color=007396" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoOS03&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555" height="150" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoOS03&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555" alt="Wakatime (Opcional si usas Wakatime)" />
 </div>
 
 <div align="center">
