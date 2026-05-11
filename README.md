@@ -1,70 +1,148 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Fernando%20Olivera&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Process%20Optimization&descAlignY=55&descAlign=50" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Estudiante+de+Inform%C3%A1tica;Optimizaci%C3%B3n+de+Procesos+con+IA" alt="Typing SVG" />
-  </a>
+```
+███████╗███████╗██████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗  ██████╗
+██╔════╝██╔════╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
+█████╗  █████╗  ██████╔╝██╔██╗ ██║███████║██╔██╗ ██║██║  ██║██║   ██║
+██╔══╝  ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║██║   ██║
+██║     ███████╗██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝╚██████╔╝
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+                                                          — O L I V E R A
+```
+
+</div>
+
+<div align="center">
+
+<!-- Typing SVG — usando demolab que es el más estable -->
+<a href="https://git.io/typing-svg">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Lima,+Per%C3%BA;Java,+Node.js,+Python;Arquitectura,+IA+y+Automatizaci%C3%B3n;Haciendo+la+tecnolog%C3%ADa+invisible" alt="Typing SVG" />
+</a>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <p>
-    👋 <b>Hola, soy Fernando.</b> Me especializo en <b>Backend</b> y la creación de sistemas eficientes.<br>
-    Actualmente combino mis estudios en <b>CIBERTEC</b> con la optimización de procesos reales en <b>Notaría Paino</b>.
-  </p>
-</div>
+---
+
+## `$ whoami`
+
+```yaml
+nombre     : Fernando Olivera Salazar
+rol        : Backend Developer
+ubicación  : Lima, Perú
+estudio    : CIBERTEC — Informática
+trabajo    : Notaría Paino · Madrisqui (Sector Legal)
+enfoque    : Backend · IA · Automatización de procesos
+```
 
 ---
 
-### 🚀 Sobre mí
+## `$ cat stack.json`
+
+```json
+{
+  "core"       : ["Java", "JavaScript", "Python"],
+  "backend"    : ["Spring Boot", "Node.js", "Express.js"],
+  "data"       : ["MySQL"],
+  "devops"     : ["Docker"],
+  "automation" : ["Playwright", "Selenium"],
+  "tools"      : ["Git", "Postman", "VS Code"]
+}
+```
+
+---
+
+## `$ git log --oneline --me`
+
+```
+✦  Backend, porque los sistemas robustos se construyen desde adentro
+✦  IA como herramienta, no como moda — procesos reales, resultados reales
+✦  Sector legal → aprendí que cada error en producción tiene consecuencias
+✦  Docker → contenerizo entornos para que "en mi máquina sí funciona" no exista
+✦  Actualmente: escalabilidad y cloud en el radar
+```
+
+---
+
+## `$ ls -la ./skills/`
 
 <table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>👨‍💻 Perfil Profesional</h3>
-      <ul style="list-style-type: none;">
-        <li>🧠 <b>Enfoque:</b> Backend, IA y Automatización.</li>
-        <li>🌱 <b>Aprendiendo:</b> Arquitecturas escalables y Cloud.</li>
-        <li>💼 <b>Experiencia:</b> Desarrollo en Madrisqui (Sector Legal).</li>
-        <li>🎯 <b>Objetivo:</b> Hacer la tecnología invisible y eficiente.</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <h3>🛠️ Lenguajes Base</h3>
-       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/>
-      <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
-  </tr>
+<tr>
+<td valign="top">
+
+**Backend & Runtime**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Frontend & Automation**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td valign="top">
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 💻 Stack Tecnológico
+## `$ cat metrics.md`
 
 <div align="center">
 
-| **Backend & Runtime** | **Frontend & Testing** | **Data & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> |
+<img src="https://github-readme-stats-fast.vercel.app/api?username=fernandoOS03&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&text_color=888780&icon_color=1D9E75&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernandoOS03&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=888780" height="160" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak — demolab es independiente y estable -->
+<img
+  src="https://streak-stats.demolab.com?user=fernandoOS03&theme=transparent&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75&sideLabels=888780&dates=888780&currStreakNum=1D9E75&sideNums=1D9E75"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-### 📊 Estadísticas
+## `$ ping fernandoolivera`
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoOS03&show_icons=true&theme=transparent&hide_border=true&title_color=007396&text_color=555&icon_color=007396" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoOS03&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555" height="150" alt="languages" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandoolivera)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandoOS03)
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+```
+// construyendo sistemas que no necesitan héroes.
+```
+
 </div>
