@@ -128,7 +128,7 @@ enfoque    : Backend · IA · Automatización de procesos
 
 ---
 
-## `$ ping fernandoolivera`
+## `$ ping fernando-olivera-salazar`
 
 <div align="center">
 
