@@ -54,17 +54,6 @@ enfoque    : Backend · IA · Automatización de procesos
 
 ---
 
-## `$ git log --oneline --me`
-
-```
-✦  Backend, porque los sistemas robustos se construyen desde adentro
-✦  IA como herramienta, no como moda — procesos reales, resultados reales
-✦  Sector legal → aprendí que cada error en producción tiene consecuencias
-✦  Docker → contenerizo entornos para que "en mi máquina sí funciona" no exista
-✦  Actualmente: escalabilidad y cloud en el radar
-```
-
----
 
 ## `$ ls -la ./skills/`
 
@@ -142,7 +131,7 @@ enfoque    : Backend · IA · Automatización de procesos
 <div align="center">
 
 ```
-// construyendo sistemas que no necesitan héroes.
+// construyendo sistemas para mejorar el mundo.
 ```
 
 </div>
