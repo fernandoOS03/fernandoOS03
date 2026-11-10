@@ -34,7 +34,7 @@ rol        : Backend Developer
 ubicación  : Lima, Perú
 estudio    : CIBERTEC — Informática
 trabajo    : Notaría Paino · Madrisqui (Sector Legal)
-enfoque    : Backend · IA · Automatización de procesos
+enfoque    : Backend · IA · Nube
 ```
 
 ---
@@ -43,12 +43,12 @@ enfoque    : Backend · IA · Automatización de procesos
 
 ```json
 {
-  "core"       : ["Java", "JavaScript", "Python"],
-  "backend"    : ["Spring Boot", "Node.js", "Express.js"],
-  "data"       : ["MySQL"],
-  "devops"     : ["Docker"],
-  "automation" : ["Playwright", "Selenium"],
-  "tools"      : ["Git", "Postman", "VS Code"]
+  "core"        : ["Java", "JavaScript", "Python"],
+  "backend"     : ["Spring Boot", "Node.js", "Express.js"],
+  "data"        : ["PostgreSQL", "MySQL", "Redis", "Supabase"],
+  "cloud_devops": ["Docker", "AWS SES", "Cloudflare", "Linux"],
+  "automation"  : ["Playwright", "Selenium", "Camoufox"],
+  "tools"       : ["Git", "Postman", "Antigravity-ide"]
 }
 ```
 
@@ -61,39 +61,42 @@ enfoque    : Backend · IA · Automatización de procesos
 <tr>
 <td valign="top">
 
-**Backend & Runtime**
+**Backend & Architecture**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td valign="top">
 
-**Frontend & Automation**
+</td>
+<td valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
 <td valign="top">
 
-**DevOps & Tools**
+**Automation & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## `$ cat metrics.md`
